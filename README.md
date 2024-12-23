@@ -29,5 +29,3 @@
 ## License
 
 MIT
-
-[Repository Link](https://github.com/ShohelAlMahmudDev/WebScraper)
